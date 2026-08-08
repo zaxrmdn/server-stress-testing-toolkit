@@ -33,10 +33,10 @@ Script ini sudah dilengkapi fitur **Auto-Install** (secara otomatis mendeteksi d
 
 ### Cara Penggunaan (Untuk Trainer):
 1. Unduh atau *clone* repositori ini ke server/VM latihan:
-   ```
-   git clone [https://github.com/zaxrmdn/server-stress-testing-toolkit.git]
-   cd nama-repositori
-   ```
+```
+git clone [https://github.com/zaxrmdn/server-stress-testing-toolkit.git]
+cd server-stress-testing-toolkit
+```
 2. Berikan izin eksekusi pada script:
 
 ```
