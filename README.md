@@ -1,4 +1,4 @@
-# 🛠️ Linux Performance Tuning & Troubleshooting Workshop
+# 🛠️ Linux Performance Tuning 
 
 Repositori ini berisi *automation script* yang dirancang khusus untuk keperluan workshop bertema **Performance Tuning Linux: Optimasi CPU, Memory, Disk, dan Network untuk Sysadmin**.
 
