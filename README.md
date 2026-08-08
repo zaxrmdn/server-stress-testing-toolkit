@@ -6,7 +6,7 @@ Script utama di dalam untuk mensimulasikan berbagai anomali dan beban sistem sec
 
 ---
 
-## 🚀 Fitur Script Simulasi (`simulator.sh`)
+## 🚀 Fitur Script Load-test
 
 Script ini sudah dilengkapi fitur **Auto-Install** (secara otomatis mendeteksi dan menginstal *tools* pendukung seperti `stress-ng`, `iperf3`, `wrk`, dll). Berikut adalah menu pilihan simulasi yang tersedia:
 
