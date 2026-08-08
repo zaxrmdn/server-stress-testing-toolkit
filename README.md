@@ -52,7 +52,7 @@ sudo ./stress-test.sh
 
 ---
 
-### Penjelasan Detail Komponen *Script* (Untuk Catatan Anda)
+### Penjelasan Detail Komponen *Script* 
 
 Jika ada peserta atau rekan yang bertanya mengenai cara kerja *script* tersebut, berikut adalah rincian teknis dari fungsi-fungsinya:
 
