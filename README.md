@@ -1,8 +1,8 @@
 # 🛠️ Linux Performance Tuning & Troubleshooting Workshop
 
-Repositori ini berisi materi, panduan praktikum, dan *automation script* yang dirancang khusus untuk keperluan workshop bertema **Performance Tuning Linux: Optimasi CPU, Memory, Disk, dan Network untuk Sysadmin**.
+Repositori ini berisi *automation script* yang dirancang khusus untuk keperluan workshop bertema **Performance Tuning Linux: Optimasi CPU, Memory, Disk, dan Network untuk Sysadmin**.
 
-Script utama di dalam repositori ini (`simulator.sh`) dirancang bagi **Trainer** untuk mensimulasikan berbagai anomali dan beban sistem secara nyata (*real-world production issues*) pada mesin Virtual Machine peserta.
+Script utama di dalam untuk mensimulasikan berbagai anomali dan beban sistem secara nyata (*real-world production issues*) pada mesin Virtual Machine peserta.
 
 ---
 
